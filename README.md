@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align = "left" alt="Justin's Github Stats" src= "https://github-readme-stats.vercel.app/api?username=jklayhew" ></img>
+<img align = "left" alt="Justin's Github Stats" src= "https://github-readme-stats.vercel.app/api?username=jklayhew&show_icons=true&theme=radical" ></img>
 
 <!-- JAVA -->
 <img align = "left" alt="Justin's Github Stats" src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" ></img>
